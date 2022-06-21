@@ -3,7 +3,18 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/TICTACTOI2/app/src/main/res/layout/activity_main.xml" value="0.153125" />
+        <entry key="..\:/TICTACTOI2/app/src/main/res/drawable/ic_close.xml" value="0.1703125" />
+        <entry key="..\:/TICTACTOI2/app/src/main/res/drawable/ic_o.xml" value="0.1828125" />
+        <entry key="..\:/TICTACTOI2/app/src/main/res/drawable/ic_retry.xml" value="0.1828125" />
+        <entry key="..\:/TICTACTOI2/app/src/main/res/drawable/ic_x.xml" value="0.1828125" />
+        <entry key="..\:/TICTACTOI2/app/src/main/res/drawable/progress_bar_style.xml" value="0.1828125" />
+        <entry key="..\:/TICTACTOI2/app/src/main/res/drawable/white_background.xml" value="0.1828125" />
+        <entry key="..\:/TICTACTOI2/app/src/main/res/drawable/white_background2.xml" value="0.1828125" />
+        <entry key="..\:/TICTACTOI2/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/TICTACTOI2/app/src/main/res/layout/activity_register_name.xml" value="0.2" />
+        <entry key="..\:/TICTACTOI2/app/src/main/res/layout/activity_splash_screen.xml" value="0.2" />
+        <entry key="..\:/TICTACTOI2/app/src/main/res/layout/retry_close_dialog.xml" value="0.18" />
+        <entry key="..\:/TICTACTOI2/app/src/main/res/layout/winner_dialog.xml" value="0.22" />
       </map>
     </option>
   </component>
